@@ -1,0 +1,11 @@
+C:\Users\Xhemo\source\repos\reastreant\reastreant\bin\Debug\reastreant.exe.config
+C:\Users\Xhemo\source\repos\reastreant\reastreant\bin\Debug\reastreant.exe
+C:\Users\Xhemo\source\repos\reastreant\reastreant\bin\Debug\reastreant.pdb
+C:\Users\Xhemo\source\repos\reastreant\reastreant\obj\Debug\reastreant.csprojAssemblyReference.cache
+C:\Users\Xhemo\source\repos\reastreant\reastreant\obj\Debug\reastreant.Form1.resources
+C:\Users\Xhemo\source\repos\reastreant\reastreant\obj\Debug\reastreant.Form2.resources
+C:\Users\Xhemo\source\repos\reastreant\reastreant\obj\Debug\reastreant.Properties.Resources.resources
+C:\Users\Xhemo\source\repos\reastreant\reastreant\obj\Debug\reastreant.csproj.GenerateResource.cache
+C:\Users\Xhemo\source\repos\reastreant\reastreant\obj\Debug\reastreant.csproj.CoreCompileInputs.cache
+C:\Users\Xhemo\source\repos\reastreant\reastreant\obj\Debug\reastreant.exe
+C:\Users\Xhemo\source\repos\reastreant\reastreant\obj\Debug\reastreant.pdb
